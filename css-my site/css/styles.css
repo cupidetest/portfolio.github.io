@@ -1,0 +1,95 @@
+.topcontainer{
+  background-color: #29132E;
+  position: relative;
+
+}
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-image: url("https://developer-blogs.nvidia.com/wp-content/uploads/2021/05/Cyberpunk_Social-625x331.jpg");
+
+}
+h1{
+  margin: 0;
+  font-family: 'Qwitcher Grypen', cursive;
+  font-size: 150px;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 50px;
+  color: #66BFBF;
+  font-weight:bolder;
+  font-family: 'Qwitcher Grypen', cursive;
+}
+  p{
+    color: #66BFBF;
+    line-height: 2;
+
+
+}
+h3{
+  color: #11999E;
+}
+a{
+  color:#11999E;
+}
+.Pic{
+padding-top: 0;
+  height:300px;
+  width:100%;
+}
+.edu{
+  height: 400px;
+  width: 400px;
+  float: right;
+  position: relative;
+  margin-top: 0;
+}
+
+.pic{
+  height: 400px;
+  width: 400px;
+  float: left;
+  position: relative;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.a{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.b{
+  width: 25%;
+  float: right;
+
+}
+.profile{
+background-color: #321450;
+position: relative;
+
+margin-bottom: 0;
+height: 700px;
+}
+.skills{
+background-color:#860229;
+position: relative;
+}
+.contact-me{
+background-color:#de004e;
+position: relative;
+padding-top: 50px;
+}
+.bottom-container{
+  background-color: #f887ff;
+  position: relative;
+  padding-top: 50px;
+}
